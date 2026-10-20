@@ -1,0 +1,24 @@
+*{
+height: auto;
+}
+h1{
+  text-align: center;
+  color: rgb(214, 214, 214);
+
+}
+
+p{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: rgb(138, 11, 11);
+text-align: right;
+}
+body{
+    /* background-image: linear-gradient(to bottom,black,red, black);*/
+
+    background-color: rgb(255, 255, 255);
+    background-image: url(skeleton.png);
+    background-repeat: no-repeat;
+    background-position-y: top;
+    background-position-x: center;
+    }
+   
